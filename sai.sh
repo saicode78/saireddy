@@ -12,3 +12,6 @@ echo"saireddy"
 ls
 whoami
 sudo yum install nginix
+echo"saiprasad"
+echo"github"
+echo"nginix"
