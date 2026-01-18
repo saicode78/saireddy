@@ -7,3 +7,5 @@ spec:
 containers:
 - name: myapp
 image: nginix:14.1
+memory: "128Mi"
+cpu: "500m"
