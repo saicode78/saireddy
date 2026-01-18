@@ -8,3 +8,4 @@ ls -l
 systemctl start tomcat
 name=sai
 echo"goodmorning""name"
+echo"saireddy"
