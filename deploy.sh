@@ -6,4 +6,4 @@ name:app
 spec:
 containers:
 - name: myapp
-image: nginix:latest
+image: nginix:1.16.42
