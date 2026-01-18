@@ -7,3 +7,7 @@ else
 echo "name not matched"
 fi
 echo"cleangit"
+date
+ls -l
+ls
+whoami
