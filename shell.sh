@@ -6,3 +6,4 @@ echo "name matched"
 else
 echo "name not matched"
 fi
+echo"cleangit"
