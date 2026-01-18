@@ -6,3 +6,5 @@ mkdir
 chown
 ls -l
 systemctl start tomcat
+name=sai
+echo"goodmorning""name"
